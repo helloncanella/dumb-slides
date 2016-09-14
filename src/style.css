@@ -1,0 +1,15 @@
+.slides{
+    background: white;
+    color: #111
+}
+
+.grid{
+        padding: 2.78% 5%;
+        /*max-width: 768px;*/
+        margin: 0 auto;
+}
+
+
+html:not(.page-loaded) .slides .slide.selected, html:not(.page-loaded) .slides.scroll .slide{
+    opacity: 1 !important
+}
