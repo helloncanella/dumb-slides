@@ -17,13 +17,13 @@ export default class Requests extends Component {
 
             content = (
                 <div className="requests-list">
-                    <div className="request-item">                    
+                    <div className="request-item">
                         <div className="col-6-12 left details">
                             <i className="fa fa-caret-right"></i> Details | Anfrage von Hellon Canella | Zugewiesen an Nicht zugewiesen | Emmendingen | Medical | Dentist
-                        </div>                    
+                        </div>
                         <div className="col-6-12 right when">
                             6 hours ago
-                        </div>                    
+                        </div>
                     </div>
                 </div>
             )
