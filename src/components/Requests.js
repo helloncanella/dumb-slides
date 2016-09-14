@@ -18,7 +18,7 @@ export default class Requests extends Component {
             content = (
                 <div className="requests-list">
                     <div className="request-item">
-<<<<<<< HEAD
+
                         <div className="details">                    
                             <div className="col-6-12 left">
                                 <i className="fa fa-caret-right"></i> Details | Anfrage von Hellon Canella | Zugewiesen an Nicht zugewiesen | Emmendingen | Medical | Dentist
@@ -60,14 +60,12 @@ export default class Requests extends Component {
                                <p className="micro">1 comment</p>
                             </div>                      
                         </div>                     
-=======
-                        <div className="col-6-12 left details">
+                       <div className="col-6-12 left details">
                             <i className="fa fa-caret-right"></i> Details | Anfrage von Hellon Canella | Zugewiesen an Nicht zugewiesen | Emmendingen | Medical | Dentist
                         </div>
                         <div className="col-6-12 right when">
                             6 hours ago
                         </div>
->>>>>>> afe11bd3ce90923be6444caf91d2ed56879f6539
                     </div>
                     
                 </div>
@@ -77,7 +75,7 @@ export default class Requests extends Component {
             <section className="slide whiteSlide selected active animate">
                 <div className="content">
                     <div className="container">
-                        <div className="wrap">
+                        <div className="wrap"> 
                             <div className="grid later">
                                 {header}
                                 {content}

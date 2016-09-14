@@ -1,0 +1,15 @@
+.cancel .button, .category-item .button{
+    width: 100%;
+    text-align: center;
+}
+
+.category-list{
+    margin-top: 1rem;
+}
+
+
+.category-list::after{
+    display: block;
+    content: '';
+    clear: both
+}
