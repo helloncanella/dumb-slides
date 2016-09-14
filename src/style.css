@@ -9,6 +9,9 @@
         margin: 0 auto;
 }
 
+.slide .button {
+    margin-right:0
+}
 
 html:not(.page-loaded) .slides .slide.selected, html:not(.page-loaded) .slides.scroll .slide{
     opacity: 1 !important
